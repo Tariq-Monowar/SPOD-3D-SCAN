@@ -9,3 +9,6 @@ Scantool.exe.WebView2/
 
 # Optional: Ignore all Debug artifacts
 Debug/
+
+seantool/bin
+seantool/obj
