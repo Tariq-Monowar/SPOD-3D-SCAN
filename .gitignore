@@ -1,0 +1,11 @@
+.vs/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore WebView2 user data folder
+Scantool.exe.WebView2/
+
+# Optional: Ignore all Debug artifacts
+Debug/
